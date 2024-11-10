@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DragonFirezilla
+- 👋 Hi, I’m @Anari
 - 👀 I’m interested in Security automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Security Automation Projects
